@@ -1,7 +1,7 @@
 #Server-Side Developer
 
 About this Job
-We are looking for experienced Software Engineer with strong backgrounds in web server, application server and platform development. If you want to join a world-class development team of LINE, we look forward to hearing from you soon!
+We are looking for experienced Software Engineer with strong backgrounds in web server, application server and platform development. If you want to join a world-class development team, we look forward to hearing from you soon!
 
 Responsibilities
 Build new service components for Taiwan and Global market.
